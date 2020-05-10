@@ -28,7 +28,7 @@ To get the hang of using the Terminal complete the following steps using any ter
 ## Git Sub-Project
 
 Now let's take one of your personal projects (or just a simple hello world program) and show it off to the world.
-Once you have made a GitHub account and logged in. Head to [GitHub](​https://github.com/new) Set the repository name and select public. Tick the box that says Initialize this repository with a README. Now click on create repository.
+Once you have made a GitHub account and logged in. Head to [GitHub](https://github.com/new) Set the repository name and select public. Tick the box that says Initialize this repository with a README. Now click on create repository.
 Using the terminal navigate to a new folder and then use this guide to clone your new repository into the folder: [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 Using the terminal, copy your project or create a hello world program in this folder.
 Add and commit the file(s) to the master branch. (See PPT on how to do this and the following steps if you forgot). Make sure to push these changes.
